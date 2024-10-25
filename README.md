@@ -1,4 +1,4 @@
-# Auto Deposit ETH for HANA Network
+i# Auto Deposit ETH for HANA Network
 
 <img width="513" alt="image" src="https://github.com/user-attachments/assets/6f263d6e-5449-4876-a2d4-b269f04611f6">
 <img width="400" alt="Screenshot 2024-10-25 at 23 11 22" src="https://github.com/user-attachments/assets/2b9ae453-bfc5-463f-9420-42184e9fb28f">
@@ -10,7 +10,7 @@
 - Regist with Google
 - Submit Code
   ```
-  5147WQ
+  OAIYGG
   ```
 - Deposit $1 to ETH BASE, just not too much.
 - Make 5,000 transactions to earn 300/hour (to unlock cards and get points).
@@ -20,7 +20,7 @@
 
 ## Instalation
 ```bash
-git clone https://github.com/dpangestuw/HANA.git
+git clone https://github.com/ceciliaharm/HANA.git
 cd HANA
 ```
 ```bash
